@@ -16,3 +16,22 @@ Dataset Link
 FIFA 20 Football is arguably the most popular sport in the world and FIFA is the most popular football (soccer) simulation game by Electronic Arts (EA Sports). The dataset provided includes the players data for the Career Mode from FIFA 15 to FIFA 20 ("players_20.csv"). The data allows multiple comparisons of the same players across the last 6 versions of the videogame.
 
 Link : https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset/data?select=players_20.csv
+
+Some ideas of possible analysis:
+
+● Historical comparison between Messi and Ronaldo (what skill attributes changed the most during time - compared to real-life stats);
+
+● Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men lineup. An extra is the same comparison with the Potential attribute for the lineup instead of the Overall attribute;
+
+● Sample analysis of top n% players (e.g. top 5% of the player) to see if some important attributes such as Agility or BallControl or Strength have been popular or not across the FIFA versions. An example would be seeing that the top 5% players of FIFA 20 are faster (higher Acceleration and Agility) compared to FIFA 15. The trend of attributes is also an important indication of how some attributes are necessary for players to win games (a version with more top 5% players with high BallControl stats would indicate that the game is more focused on the technique rather than the physical aspect).
+
+● Sample analysis of top n% players (e.g. top 5% of the player) to see if some important attributes such as Agility or BallControl or Strength have been popular or not across the FIFA versions. An example would be seeing that the top 5% players of FIFA 20 are faster (higher Acceleration and Agility) compared to FIFA 15. The trend of attributes is also an important indication of how some attributes are necessary for players to win games (a version with more top 5% players with high BallControl stats would indicate that the game is more focused on the technique rather than the physical aspect).
+
+●Since this case is aims at clustering football players based on their attributes we will be using K-Means to evaluate the data.
+
+Data Description
+● Name: Name of the player
+
+● Age: Age of the player
+
+● Height: Height of the player in inches (transformed to centimeters in preprocessing)
