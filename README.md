@@ -48,3 +48,33 @@ Data Description
 ● Position: Position of the players on the pitch which determines their roles and responsibilities in the team. Forward positions in the football and FIFA 19 can be grouped as striker (ST: center striker, RS: right striker, LS: left striker), forward (CF: center forward, RF: right forward, LF: left forward) and winger (RW: right winger, LW: left winger). The word, forward, is used both as a general term and a special position. Strikers are positioned in front of forwards and wingers and very closed to the opposing goal. Their main responsibilities are attacking and scoring goals, that’s why their ball control, shooting and finishing skills are expected to be well. Center forwards are positioned right behind the strikers. They are expected to receive balls from the others and score assists to the others or goals. In addition to the skills expected from strikers, they have to be good at passing. Right forwards and left forwards are positioned at the right and left of the center forwards with the same expectations. Wingers are positioned near the touchlines to create chances for strikers and forwards from the right and left side of the field by breakthrough and crosses and to score goals. They are expected to be good at dribbling, acceleration, passing and crossing. Positions are used only in preprocessing and discussion stages
 
 ● ST: Positional skill. Player’s general ability when playing in ST position rated between 1-99
+● RS: Positional skill. Player’s general ability when playing in in RS position rated between 1-99
+
+● LS: Positional skill. Player’s general ability when playing in in LS position rated between 1-99
+
+● CF: Positional skill. Player’s general ability when playing in in CF position rated between 1-99
+
+● RF: Positional skill. Player’s general ability when playing in in RF position rated between 1-99
+
+● LF: Positional skill. Player’s general ability when playing in in LF position rated between 1-99
+
+● RW: Positional skill. Player’s general ability when playing in in RW position rated between 1-99
+
+● LW: Positional skill. Player’s general ability when playing in in LW position rated between 1-99
+
+● Crossing: Crossing skill of the player rated between 1-99. Cross is a long-range pass from wings to center
+
+● Finishing: Finishing skill of the player rated between 1-99. Finishing in football refers to finish an attack by scoring a goal. ● HeadingAccuracy: Player’s accuracy to pass or shoot by using his head rated between 1-99
+
+● ShortPassing: Player’s accuracy for short passes rated between 1-99
+
+● LongPassing: Player’s accuracy for long passes rated between 1-99
+
+● Dribbling: Dribbling skill of the player rated between 1-99. Dribbling is carrying the ball without losing while moving in one particular direction
+
+● SprintSpeed: Speed rate of the player rated between 1-99
+
+● Acceleration: Shows how fast a player can reach his maximum sprint speed rated between 1-99
+
+● FKAccuracy: Player’s accuracy to score free kick goals rated between 1-99
+
