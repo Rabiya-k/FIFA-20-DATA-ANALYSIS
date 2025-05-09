@@ -30,6 +30,7 @@ Some ideas of possible analysis:
 ●Since this case is aims at clustering football players based on their attributes we will be using K-Means to evaluate the data.
 
 Data Description
+
 ● Name: Name of the player
 
 ● Age: Age of the player
