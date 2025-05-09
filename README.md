@@ -77,4 +77,35 @@ Data Description
 ● Acceleration: Shows how fast a player can reach his maximum sprint speed rated between 1-99
 
 ● FKAccuracy: Player’s accuracy to score free kick goals rated between 1-99
+● BallControl: Player’s ability to control the ball rated between 1-99
+
+● Balance: Player’s ability to remain steady while running, carrying and controlling the ball rated between 1-99
+
+● ShotPower: Player’s strength level of shooting the ball rated between 1-99
+
+● Jumping: Player’s jumping skill rated between 1-99
+
+● Penalties: Player’s accuracy to score goals from penalty rated between 1-99
+
+● Strength: Physical strength of the player rated between 1-99
+
+● Agility: Gracefulness and quickness of the player while controlling the ball rated between 1-99
+
+● Reactions: Acting speed of the player to what happens in his environment rated between 1-99
+
+● Aggression: Aggression level of the player while pushing, pulling and tackling rated between 1-99
+
+● Positioning: Player’s ability to place himself in the right position to receive the ball or score goals rated between 1-99
+
+● Vision: Player’s mental awareness about the other players in the team for passing rated between 1-99
+
+● Volleys: Player’s ability to perform volleys rated between 1-99
+
+● LongShots: Player’s accuracy of shoots from long distances rated between 1-99
+
+● Stamina: Player’s ability to sustain his stamina level during the match rated between 1-99. Players with lower stamina get tired fast
+
+● Composure: Player’s ability to control his calmness and frustration during the match rated between 1-99
+
+● Curve: Player’s ability to curve the ball while passing or shooting rated between 1-99
 
