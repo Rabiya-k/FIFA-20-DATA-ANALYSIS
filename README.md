@@ -108,4 +108,11 @@ Data Description
 ● Composure: Player’s ability to control his calmness and frustration during the match rated between 1-99
 
 ● Curve: Player’s ability to curve the ball while passing or shooting rated between 1-99
+● Interceptions: Player’s ability to intercept the ball while opposite team’s players are passing rated between 1-99. It is a defensive skill
+
+● StandingTackle: Player’s ability to perform tackle (take the ball from the opposite player) while standing rated between 1-99. It is a defensive skill
+
+● SlidingTackle: Player’s ability to perform tackle by sliding rated between 1-99. It is a defensive skill
+
+● Marking: Player’s ability to apply strategies to prevent opposing team from taking the ball rated between 1-99. It is a defensive skill
 
